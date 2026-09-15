@@ -5,6 +5,6 @@
     "patch_strip": 1,
     "patches": {
         "ocp.patch": "sha256-aaKu7VgG8nI6hYMdNqLRoFm9LcCy2lMUJEq9GOJUmV0=",
-        "module_dot_bazel.patch": "sha256-jmWGjkU1H4BG2ZFMqrbxaUhGBAPcEq80V0U4wtAlxWQ="
+        "module_dot_bazel.patch": "sha256-rgB8h1VZs7tX8K8w++NBFlJQloQ8Z/6c9aJhbJYrUXY="
     }
 }
